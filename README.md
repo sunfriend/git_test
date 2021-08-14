@@ -1,0 +1,1 @@
+This is Yurii's first git project.
